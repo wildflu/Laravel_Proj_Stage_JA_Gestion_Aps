@@ -1,0 +1,23 @@
+@import "./layouts/header_nav";
+@import "./home/home_style";
+@import "./login/login_style.scss";
+@import "./notes/notes_style.scss";
+@import "./settings/settings_style.scss";
+@import "./usage/usage_style.scss";
+@import "./layouts/footer_bar";
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+ul {
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
